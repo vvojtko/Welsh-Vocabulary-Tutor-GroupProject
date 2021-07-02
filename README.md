@@ -1,5 +1,5 @@
 # Welsh-Vocabulary-Tutor-GroupProject
-Group project. Welsh-Vocabulary-Tutor app that helps to learn welsh by providing a basic vocabulary and range of features that make it easy to practice the language.
+Java group project. Welsh-Vocabulary-Tutor app that helps to learn welsh by providing a basic vocabulary and range of features that make it easy to practice the language.
 
 Project was completed by a group of 7 students where everybody was assigned to specific role:
 
