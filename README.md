@@ -3,7 +3,7 @@ Group project. Welsh-Vocabulary-Tutor app that helps to learn welsh by providing
 
 Project was completed by a group of 7 students where everybody was assigned to specific role:
 
-•	Wojciech Sowinski (ME, THIS GITHUB'S OWNER) – UI team/Design Team
+•	Wojciech Sowinski (ME, THIS GITHUB'S OWNER) – UI team/Design Team /n
 •	Jaime Sanchez Revuelta – Design team
 •	Josh Rogers – QA manager
 •	Valentin Daros – Testing team 
