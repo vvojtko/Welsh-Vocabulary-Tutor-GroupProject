@@ -1,0 +1,20 @@
+Item                         | Configuration Reference | Name                                       | Location
+-----------------------------+-------------------------+--------------------------------------------+--------------------------------
+User Interface Specification | UIGroup6                | UISpecGroup6.docx,                         | Folder DOCS\User_Interface
+                             |                         | UIPresentationGroup6.pptx                  |
+-----------------------------+-------------------------+--------------------------------------------+--------------------------------
+Test Specification           | TestSpecGroup6          | TestSpecGroup6.docx                        | Folder DOCS\Testing
+-----------------------------+-------------------------+--------------------------------------------+--------------------------------
+Test Report                  | TestReportGroup6        | TestReportGroup6.xlsx                      | Folder DOCS\Testing
+-----------------------------+-------------------------+--------------------------------------------+--------------------------------
+Design Specification         | DesignGroup6            | DesignSpecGroup6.docx                      | Folder DOCS\Architecture
+-----------------------------+-------------------------+--------------------------------------------+--------------------------------
+Source code                  | CodeGroup6              | WelshLearnersApp.zip                       | Folder SRC\Source_Code
+-----------------------------+-------------------------+--------------------------------------------+--------------------------------
+Maintenance Manual           | ManualGroup6            | MaintenanceManualGroup6.docx               | Folder DOCS\Maintenance_Manual
+-----------------------------+-------------------------+--------------------------------------------+--------------------------------
+Maintenance Tools            | ToolsGroup6             | ClearPracticeList.bat,                     | Folder SRC\Maintenance_Tools
+                             |                         | ResetDictionary.bat                        |
+-----------------------------+-------------------------+--------------------------------------------+--------------------------------
+Final Report                 | FinalReportGroup6       | FinalReportGroup6.docx                     | Folder DOCS\Final_Report
+-----------------------------+-------------------------+--------------------------------------------+--------------------------------
